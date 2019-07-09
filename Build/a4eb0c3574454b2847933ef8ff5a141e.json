@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "R.B-racing",
+"productVersion": "0.1",
+"dataUrl": "07507a8c9d1664095c54292993dafeb4.unityweb",
+"wasmCodeUrl": "f5bad5c565cdadcfc2860f9e12aadb88.unityweb",
+"wasmFrameworkUrl": "b77c99c509c8b921bd33f8223a99e3fe.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
